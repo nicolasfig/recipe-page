@@ -10,4 +10,5 @@
   --color-rose-50: hsl(330, 100%, 98%);
   --font-young: "Young Serif", serif;
   --font-outfit: "Outfit", sans-serif;
+  --breakpoint-xs: 24rem;
 }
